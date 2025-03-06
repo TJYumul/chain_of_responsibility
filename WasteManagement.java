@@ -1,4 +1,4 @@
-public class Main {
+public class WasteManagement {
     public static void main(String[] args) {
         WasteCollector organic = new OrganicCollector();
         WasteCollector recyclable = new RecyclableCollector();
